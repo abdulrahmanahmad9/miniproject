@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.post-card-image {
+  align-items: center;
+  width: 200px;
+  height: 200px;
+
+}
+
+button {
+  background-color: rgb(75, 162, 255);
+  border-radius: 20px;
+  box-shadow: inset;
+  justify-content: left;
+}
+.card {
+  margin: 10px;
+  border-radius: 10px;
+  border-color:rgb(12, 80, 215);
+  border-style: double;
+}
